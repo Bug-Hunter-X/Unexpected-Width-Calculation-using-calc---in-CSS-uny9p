@@ -1,0 +1,11 @@
+/* bugSolution.css */
+.container {
+  width: 500px; /* Explicitly set container width */
+  border: 1px solid black;
+}
+
+.element {
+  width: calc(100% - 20px);
+  padding: 10px;
+  background-color: lightblue;
+}
